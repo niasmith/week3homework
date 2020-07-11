@@ -56,20 +56,20 @@
    float: left;
   }
   
-.col-col-lg-2{
+.btn1{
   background: #a9a9a9;
   margin: 80px 0px 0px 40px;
   margin-bottom: 20px;
   padding: 10px;
-  text-align: left;
+  float: left;
 }
 
-.col-lg-2{
+.btn2 {
   background: #a9a9a9;
   margin: 80px 0px 0px 40px;
   margin-bottom: 20PX;
   padding:10px;
-  text-align: right;
+ float:right;
 }
 
 .justify-content-lg-center a{
