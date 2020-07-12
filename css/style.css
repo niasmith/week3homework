@@ -1,4 +1,4 @@
-.flex-container {
+/* .flex-container {
     display: flex;
   }
 
@@ -8,7 +8,7 @@
     font-size:30px;
     width: 30%;
     height: 300px;
-  }
+  } */
   
   
   .headings{
@@ -20,12 +20,11 @@
   h2{
     text-align:center ;
       padding: 30px;
-      margin: 40px;
+      margin: 20px;
   }
 
 .boxesRow{
   height: 300px;
-
 }
 
 .firstDiv{
@@ -42,7 +41,7 @@
 .secondDiv{
   background: blue;
   border: 3px dashed yellow;
-  margin: 0 50px;
+  margin:  50px;
 }
 
 .secondDivNew{
@@ -68,11 +67,16 @@
 }
 
 .changeTitle{
-  color: blue;
+  color: black;
   text-decoration: underline;
 }
 
 .rowBtns span{
   background: #e5e5e5;
+  margin-bottom:20px;
   padding: 5px 10px;
+}
+
+.resetAllBtn a{
+  color: #000000;
 }
