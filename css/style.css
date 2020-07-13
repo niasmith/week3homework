@@ -1,16 +1,5 @@
-/* .flex-container {
-    display: flex;
-  }
 
-.flex-container > div {
-    margin:  0 40px 0px 40px;
-    padding: 50px;
-    font-size:30px;
-    width: 30%;
-    height: 300px;
-  } */
-  
-  
+
   .headings{
     margin: 50px 0 60px 0;
     text-align: center;
@@ -79,4 +68,8 @@
 
 .resetAllBtn a{
   color: #000000;
+}
+
+.buttons{
+  margin-top: 50px;
 }
